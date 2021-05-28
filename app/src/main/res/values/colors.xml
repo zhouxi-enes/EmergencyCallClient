@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/ic_launcher_lan_video_background</color>
+    <color name="colorPrimaryDark">#007930</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="color_cycle_1">#c62828</color>
+    <color name="color_cycle_2">#ad1457</color>
+    <color name="color_cycle_3">#6a1b9a</color>
+    <color name="color_cycle_4">#4527a0</color>
+    <color name="color_cycle_5">#283593</color>
+    <color name="color_cycle_6">#1565c0</color>
+    <color name="color_cycle_7">#0277bd</color>
+    <color name="color_cycle_8">#00838f</color>
+
+    <color name="color_offline">#5f5f5f</color>
+    <color name="color_online">@color/colorPrimaryDark</color>
+
+</resources>

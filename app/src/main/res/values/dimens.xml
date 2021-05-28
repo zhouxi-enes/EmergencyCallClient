@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="init_activity_main_text_size">28sp</dimen>
+    <dimen name="init_activity_second_text_size">20sp</dimen>
+    <dimen name="init_activity_third_text_size">16sp</dimen>
+
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="margin_24dp">24dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_4dp">4dp</dimen>
+    <dimen name="margin_32dp">32dp</dimen>
+    <dimen name="margin_48dp">48dp</dimen>
+
+    <dimen name="user_list_item_height">96dp</dimen>
+    <dimen name="user_list_avatar_size">64dp</dimen>
+    <dimen name="user_list_name_size">20sp</dimen>
+    <dimen name="user_list_is_online_size">14sp</dimen>
+    <dimen name="user_list_empty_size">22sp</dimen>
+
+    <dimen name="bottom_sheet_title_size">26sp</dimen>
+    <dimen name="bottom_sheet_item_height">72dp</dimen>
+    <dimen name="bottom_sheet_item_text_size">18sp</dimen>
+
+    <dimen name="fab_hang_up_size">72dp</dimen>
+
+    <dimen name="call_activity_avatar_view_size">120dp</dimen>
+    <dimen name="call_activity_user_name_text_size">32sp</dimen>
+    <dimen name="call_activity_timer_and_status_text_size">18sp</dimen>
+    <dimen name="call_activity_call_button_item_width_and_height">100dp</dimen>
+    <dimen name="call_activity_call_button_item_image_size">48dp</dimen>
+    <dimen name="call_activity_call_button_item_text_size">18sp</dimen>
+
+    <dimen name="incoming_call_activity_title_text_size">44sp</dimen>
+    <dimen name="incoming_call_activity_method_text_size">30sp</dimen>
+    <dimen name="incoming_call_activity_button_text_size">24sp</dimen>
+
+    <dimen name="waiting_dialog_text_size">16sp</dimen>
+
+</resources>

@@ -1,0 +1,67 @@
+<resources>
+    <string name="system_account_api_key_name">org.enes.lanvideocall.account.type</string>
+
+    <string name="ap_name">enes_uav</string>
+
+    <string name="app_name">「天・地・人」緊急通話</string>
+    <string name="txt_starting_now">起動中…</string>
+    <string name="txt_about_hind">2019 ENeS</string>
+    <string name="txt_request_permission_hint">先ず、使用する前にすべての許可を取らなければならない</string>
+    <string name="txt_video_call_test">ビデオ通話テスト</string>
+    <string name="txt_get_cameras">カメラ獲得:</string>
+    <string name="txt_audio_call_test">音声通話テスト</string>
+    <string name="txt_not_connect_to_wifi_hint_title">Wi-Fi接続なし</string>
+    <string name="txt_not_connect_to_wifi_hint_message">下記のアクセスポイントに接続したかどうかをチェックしてください:</string>
+    <string name="txt_open_wifi_settings">Wi-Fi設置を開く</string>
+    <string name="txt_retry">リトライ</string>
+    <string name="txt_exit">終了</string>
+    <string name="txt_warning">警告</string>
+    <string name="txt_server_down_hint">サーバが起動不能、リトライしてください</string>
+    <string name="txt_set_name_background">名前セッティング中…</string>
+    <string name="txt_input_name">名前を入力</string>
+    <string name="txt_input_name_edit_text_hint">お名前を入力してください</string>
+    <string name="txt_confirm">確認</string>
+    <string name="txt_name_cannot_be_empty">お名前が空白にしてはいけない</string>
+    <string name="txt_exit_app_confirm">終了しますか?</string>
+    <string name="txt_back">戻る</string>
+    <string name="txt_cannot_set_name_hint">お名前は設定できない、リトライしてください</string>
+    <string name="txt_2_press">もう一回押して終了</string>
+    <string name="txt_online">オンライン</string>
+    <string name="txt_offline">オフライン</string>
+    <string name="txt_user_list_is_empty">ユーザリストは空白です</string>
+    <string name="txt_select_a_method_to_call_">通話タイプを選択 %s</string>
+    <string name="txt_audio_call">音声通話</string>
+    <string name="txt_video_call">ビデオ通話</string>
+    <string name="txt_error_arguments">エラーの引数</string>
+    <string name="txt_speaker">スピーカー</string>
+    <string name="txt_phone">携帯電話</string>
+    <string name="txt_mute">ミュート</string>
+    <string name="txt_un_mute">ミュートを解除</string>
+    <string name="txt_call_some_one_now">%s を呼び出す…</string>
+    <string name="txt_is_calling_now">通話中, 一回押して通話パネルに戻る</string>
+    <string name="txt_channel_name">着信通知</string>
+    <string name="txt_channel_description">着信通知を見る</string>
+    <string name="txt_calling_dialing_now">呼び出し中…</string>
+    <string name="txt_calling_ringing_now">呼び出しに招待中…</string>
+    <string name="txt_connected_now">通話中</string>
+    <string name="txt_dialing_timeout">呼び出しタイムアウト</string>
+    <string name="txt_user_is_busy_now">お掛けになるユーザが今ビージーかもしれない</string>
+    <string name="txt_accept">受け入れ</string>
+    <string name="txt_ignore">無視</string>
+    <string name="txt_camera_on">カメラオン</string>
+    <string name="txt_camera_off">カメラオフ</string>
+    <string name="txt_turn_to_front">フロントカメラに切り替え</string>
+    <string name="txt_turn_to_rear">バックカメラに切り替え</string>
+    <string name="txt_iam_safe">\t安全確認済\t</string>
+    <string name="txt_send_location_info">位置情報を送る</string>
+    <string name="txt_check_location">位置確認中…</string>
+    <string name="txt_send_message">メッセージ</string>
+    <string name="txt_compose">入力</string>
+    <string name="txt_send">送信</string>
+    <string name="txt_input_the_message">メッセージを入力してください</string>
+    <string name="txt_data_sending_now">データ送信中</string>
+    <string name="txt_data_sent_successful">送信成功</string>
+    <string name="txt_data_failed">送信失敗</string>
+
+
+</resources>

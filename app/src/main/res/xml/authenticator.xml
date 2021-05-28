@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account-authenticator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accountType="@string/system_account_api_key_name"
+    android:icon="@mipmap/ic_launcher_lan_video_call"
+    android:smallIcon="@mipmap/ic_launcher_lan_video_call"
+    android:label="@string/app_name" />

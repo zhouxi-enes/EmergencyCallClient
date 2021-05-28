@@ -1,0 +1,67 @@
+<resources>
+    <string name="system_account_api_key_name">org.enes.lanvideocall.account.type</string>
+
+    <string name="ap_name">enes_uav</string>
+
+    <string name="app_name">「天・地・人」緊急通話</string>
+    <string name="txt_starting_now">Starting now …</string>
+    <string name="txt_about_hind">2019 ENeS</string>
+    <string name="txt_request_permission_hint">First of all, you should grant all of the permissions before it works.</string>
+    <string name="txt_video_call_test">VideoCallTest</string>
+    <string name="txt_get_cameras">Get camera:</string>
+    <string name="txt_audio_call_test">AudioCallTest</string>
+    <string name="txt_not_connect_to_wifi_hint_title">No wifi connection</string>
+    <string name="txt_not_connect_to_wifi_hint_message">Please check your phone is connect to follow access point:</string>
+    <string name="txt_open_wifi_settings">Open wifi settings</string>
+    <string name="txt_retry">Retry</string>
+    <string name="txt_exit">Exit</string>
+    <string name="txt_warning">Warning</string>
+    <string name="txt_server_down_hint">The server is look likes down, please try again.</string>
+    <string name="txt_set_name_background">Setting name now …</string>
+    <string name="txt_input_name">Input Name</string>
+    <string name="txt_input_name_edit_text_hint">Press to input name</string>
+    <string name="txt_confirm">Confirm</string>
+    <string name="txt_name_cannot_be_empty">The name cannot be empty</string>
+    <string name="txt_exit_app_confirm">Confirm to exit this application?</string>
+    <string name="txt_back">Back</string>
+    <string name="txt_cannot_set_name_hint">Cannot set this name, please retry.</string>
+    <string name="txt_2_press">Press again to exit.</string>
+    <string name="txt_online">Online</string>
+    <string name="txt_offline">Offline</string>
+    <string name="txt_user_list_is_empty">User list is empty.</string>
+    <string name="txt_select_a_method_to_call_">Select a Method to call %s</string>
+    <string name="txt_audio_call">Audio call</string>
+    <string name="txt_video_call">Video call</string>
+    <string name="txt_error_arguments">Error arguments</string>
+    <string name="txt_speaker">Speaker</string>
+    <string name="txt_phone">Phone</string>
+    <string name="txt_mute">Mute</string>
+    <string name="txt_un_mute">Un mute</string>
+    <string name="txt_call_some_one_now">Call %s now…</string>
+    <string name="txt_is_calling_now">Is calling now, press to back the call panel.</string>
+    <string name="txt_channel_name">Call Notification</string>
+    <string name="txt_channel_description">Show call notification</string>
+    <string name="txt_calling_dialing_now">Dialing now…</string>
+    <string name="txt_calling_ringing_now">Ringing now…</string>
+    <string name="txt_connected_now">Connected</string>
+    <string name="txt_dialing_timeout">Dialing Timeout</string>
+    <string name="txt_user_is_busy_now">User is busy now.</string>
+    <string name="txt_accept">Accept</string>
+    <string name="txt_ignore">Ignore</string>
+    <string name="txt_camera_on">Camera on</string>
+    <string name="txt_camera_off">Camera off</string>
+    <string name="txt_turn_to_front">Front</string>
+    <string name="txt_turn_to_rear">Rear</string>
+    <string name="txt_iam_safe">\tI\'m safe\t</string>
+    <string name="txt_send_location_info">Send location information</string>
+    <string name="txt_check_location">Get location now…</string>
+    <string name="txt_send_message">Send message</string>
+    <string name="txt_compose">Compose</string>
+    <string name="txt_send">Send</string>
+    <string name="txt_input_the_message">Input text message</string>
+    <string name="txt_data_sending_now">Data sending now</string>
+    <string name="txt_data_sent_successful">送信成功</string>
+    <string name="txt_data_failed">送信失敗</string>
+
+
+</resources>
